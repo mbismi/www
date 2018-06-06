@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## A quoi ca ressemble, un module ?
 
-You can use the [editor on GitHub](https://github.com/mbismi/www/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![](modules_1.png)
+![](modules_2.png)
+![](modules_3.png)
+![](modules_4.png)
+![](modules_5.png)
+![](modules_6.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## La métaphore du tatami
 
-### Markdown
+![](tatami.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Assemblage
 
-```markdown
-Syntax highlighted code block
+![](assembly.png)
+![](assembly_1.jpg)
+![](assembly_2.jpg)
+![](assembly_3.jpg)
+![](assembly_4.jpg)
+![](assembly_5.jpg)
+![](assembly_6.jpg)
+![](assembly_7.jpg)
+![](assembly_8.jpg)
+![](assembly_9.jpg)
+![](assembly_10.jpg)
+![](assembly_11.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+## Generative Design
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mbismi/www/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Modular Level Design](https://fr.slideshare.net/JoelBurgess/gdc-2016-modular-level-design-of-fallout-4)
+[Video Houdini](https://www.youtube.com/watch?v=bXM7Hx51Qb0)
+[Video Houdini](https://www.youtube.com/watch?v=g_K6lWBlSdc)
+[Video Grammaire](https://www.youtube.com/watch?v=t-VUpX-xVo4)
